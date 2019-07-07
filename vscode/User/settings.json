@@ -5,4 +5,10 @@
     "workbench.colorTheme": "Material Theme",
     "editor.fontLigatures": true,
     "window.zoomLevel": 1,
+    "atlascode.jira.workingSite": {
+        "baseUrlSuffix": "atlassian.net"
+    },
+    "yaml.schemas": {
+        "file:///Users/nunorafaelrocha/.vscode/extensions/atlassian.atlascode-1.4.2/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
 }
