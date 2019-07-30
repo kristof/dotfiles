@@ -26,6 +26,7 @@ brew 'vim'
 brew 'wget'
 brew 'yarn'
 brew 'youtube-dl'
+brew 'pyenv'
 
 cask '1password'
 cask 'aerial'
@@ -46,6 +47,8 @@ cask 'qlstephen' # https://github.com/whomwah/qlstephen
 cask 'qlvideo' # https://github.com/Marginal/QLVideo
 cask 'quicklook-json' # http://www.sagtau.com/quicklookjson.html
 cask 'quicklookase' # https://github.com/rsodre/QuickLookASE
+cask 'r'
+cask 'rstudio'
 cask 'sequel-pro'
 cask 'slack'
 cask 'spotify'
